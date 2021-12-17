@@ -2,6 +2,8 @@
 
 ![](https://thwaitesglacier.org/sites/default/files/inline-images/itgc-logo-color-white-background-295.png)
 
+[![DOI](https://zenodo.org/badge/439373006.svg)](https://zenodo.org/badge/latestdoi/439373006)
+
 This is a repo for hosting a fieldwork best practices document initially created by the [International Thwaites Glacier Collaboration](https://thwaitesglacier.org/)'s committee for [Inclusion, Diversity, Equity and Antiracism](https://thwaitesglacier.org/about/diversity).
 
 The document is hosted publicly here: [https://ldeo-glaciology.github.io/ITGC-field-doc/](https://ldeo-glaciology.github.io/ITGC-field-doc/).
