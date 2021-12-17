@@ -1,7 +1,9 @@
 name: Upload Document as Artifact
 
-on: [push]
-
+on:
+  push:
+    paths:
+    - '**.md'
 env:
   GITHUB_TOKEN: ${{ github.token }}
 
@@ -16,7 +18,7 @@ jobs:
         uses: shrink/actions-document-publish@v1
         id: publish-document
         with:
-          sources: 'documents/front.md documents/examples/**/*.md documents/back.md'
+          sources: '*.md'
       - name: Upload Document
         uses: actions/upload-artifact@v2
         id: upload-document
