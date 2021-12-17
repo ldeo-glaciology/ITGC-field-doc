@@ -4,9 +4,11 @@
 
 This is a repo for hosting a fieldwork best practices document initially created by the [International Thwaites Glacier Collaboration](https://thwaitesglacier.org/)'s committee for [Inclusion, Diversity, Equity and Antiracism](https://thwaitesglacier.org/about/diversity).
 
-This document is intended to be an ongoing collaborative effort across the polar science community.
+The document is hosted publicly here: [https://ldeo-glaciology.github.io/ITGC-field-doc/](https://ldeo-glaciology.github.io/ITGC-field-doc/).
 
-The text of the document (displayed [here](https://ldeo-glaciology.github.io/ITGC-field-doc/)) is located in [index.md](https://github.com/ldeo-glaciology/ITGC-field-doc/blob/main/index.md). 
+This is intended to be an ongoing collaborative effort across the polar science community.
+
+The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-field-doc/blob/main/index.md). 
 
 All feedback and edits are welcome. To comment or suggest changes you can create an GitHub issue or you can make specific changes to [index.md](https://github.com/ldeo-glaciology/ITGC-field-doc/blob/main/index.md) and submit them as a pull request. 
 

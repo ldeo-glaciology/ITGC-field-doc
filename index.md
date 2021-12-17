@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## 1. Introduction
 This document describes recommendations for best practices for field- and ship-based scientific campaigns in Antarctica, undertaken as part of the International Thwaites Glacier Collaboration (ITGC). Its intended audience is all members of the ITGC’s field and ship teams, regardless of career-stage, role in the team, seniority, or previous experience. These best practices are based on evidence from the behavioral science and psychology literature and intended as suggestions to help teams improve the climate of their field and ship teams. One overarching goal of providing these recommendations is to improve the diversity of field- and ship-going science teams by creating a safe and welcoming environment for everyone, but particularly those from groups historically marginalized in field- and ship-based science. This will be a living document that will be updated as best practices are refined throughout the ITGC. In addition, only some of the ITGC’s work takes place on ships and in the field, and efforts are ongoing to extend this document to cover our work in the laboratory and in the office. These recommendations are based around defining the structure of the team and what you can do before and after deployment to foster a good team climate. 
 
@@ -146,3 +150,8 @@ All of these rights apply to all members of the team and shall be exercised with
 By signing below, you agree to the following code of conduct and accept the consequences of violating them. This may include the termination from the project.
 
 _________
+
+
+![](banner.JPG)
+
+	
