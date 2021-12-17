@@ -152,6 +152,4 @@ By signing below, you agree to the following code of conduct and accept the cons
 _________
 
 
-![](banner.JPG)
-
 	
