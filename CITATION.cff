@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this document, please cite it as below."
+authors:
+- family-names: “International Thwaites Glacier Collaboration IDEA committee"
+title: “ITGC field and ship best practices”
+version: 1.0
+doi: 10.5281/zenodo.5789786
+date-released: 2021-12-17
+url: "https://github.com/ldeo-glaciology/ITGC-field-doc"

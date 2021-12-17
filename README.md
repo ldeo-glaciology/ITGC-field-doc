@@ -16,5 +16,7 @@ All feedback and edits are welcome. To comment or suggest changes you can create
 
 Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordinateion Office ([betsys@nsidc.org]()).
 
+Please 
+
 
 
