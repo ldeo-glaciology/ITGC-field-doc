@@ -24,4 +24,3 @@ jobs:
         with:
            add: "index_converted.pdf" 
 	  default_author: github_actor
-	  message: 'Added pdf converted from markdown with action'
