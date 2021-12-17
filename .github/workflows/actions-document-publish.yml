@@ -15,7 +15,6 @@ jobs:
         uses: shrink/actions-document-publish@v1
         id: publish-document
         with:
-	  # this attaches the title onto the start of the document because index.md does not include a title. 
           sources: 'title.md index.md'
       - name: Upload Document
         uses: actions/upload-artifact@v2
