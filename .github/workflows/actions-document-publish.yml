@@ -1,6 +1,9 @@
 name: Upload Document as Artifact
 
-on: [push]
+on: 
+  push:
+    paths:
+    - '**.md'
 env:
   GITHUB_TOKEN: ${{ github.token }}
 
