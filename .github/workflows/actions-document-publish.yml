@@ -1,0 +1,29 @@
+name: Upload Document as Artifact
+
+on: 
+  push:
+    paths:
+    - '**.md'
+env:
+  GITHUB_TOKEN: ${{ github.token }}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    name: Publish Document
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Publish PDF Document
+        uses: shrink/actions-document-publish@v1
+        id: publish-document
+        with:
+          sources: 'title.md index.md'
+      - uses: canastro/copy-file-action@master
+        with:
+          source: ".publish-docs/document.pdf"
+          target: "index_converted.pdf"
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: "index_converted.pdf"
+          default_author: github_actor

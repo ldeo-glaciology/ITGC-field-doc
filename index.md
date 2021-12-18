@@ -1,4 +1,4 @@
-Download this document as a pdf [here](https://github.com/ldeo-glaciology/ITGC-field-doc/raw/042e9c0e25666b68868f82028d11842a0fdc07bf/index.pdf).
+Download this document as a pdf [here](index_converted.pdf).
 
 Please cite this document as follows: 
 “International Thwaites Glacier Collaboration IDEA committee" (2021). “ITGC field and ship best practices” (Version 1.0). https://doi.org/10.5281/zenodo.5789786
