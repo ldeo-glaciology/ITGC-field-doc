@@ -71,11 +71,17 @@ While the majority of conflicts can be addressed within the team, in the event t
 
 **BAS contacts:**
 
-Rothera Summer Stations Leader (details in "Contact List for personnel going South" supplied in BAS pre-deployment training)
-Rother Doctor (details in "Contact List for personnel going South" supplied in BAS pre-deployment training)
-BASMU - British Antarctic Survey Medical Unit (details in "Contact List for personnel going South" supplied in BAS pre-deployment training)
+BAS ITGC Coordinator: Rach Morris, racmor@bas.ac.uk
 
+Rothera Field Operations Manager: Nick Gillett or Tom Sylvester, +44 1223 221673, rfom@bas.ac.uk
 
+Rothera Doctor: Rebecca Boys or Rosemary Hartley, +44 1223 221681, rdoc@bas.ac.uk
+
+BAS Head of Field Operations: James Wake, +44 7517 830396. jake@bas.ac.uk
+
+UKRI Welfare (Confidential): Greg Pirt, greg.pirt@ukri.org
+
+Please note for phone calls: BAS & UKRI personnel UTC, Rothera UTC-3.
 
 **USAP contact:**
 
